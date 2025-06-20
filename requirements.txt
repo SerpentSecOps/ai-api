@@ -1,0 +1,5 @@
+torch>=2.0.0
+transformers>=4.30.0
+llama-cpp-python>=0.2.0
+psutil>=5.9.0
+tkinter  # Usually included with Python
